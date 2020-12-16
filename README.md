@@ -8,6 +8,12 @@ Node.js
 
 Formidable
 
+React
+
+Babel
+
+Webpack
+
 ## Instructions
 
 To use this example, simply navigate to the directory of the UI and File_Server folders and type npm start. Using the UI, you can upload and download images. To retrieve images from the file server, you can type:
